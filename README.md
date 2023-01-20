@@ -16,7 +16,7 @@ This program solves 400 boards for:
 ### Dependencies
 
 * Language/Version: python 3.9
-* Libraries: math, time, operator, random, statistics
+* Libraries: Numpy ,math, time, operator, random, statistics
 
 ### Executing program 👩🏻‍💻
 
